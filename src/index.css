@@ -1,0 +1,16 @@
+.buttons {
+  margin: 2rem;
+}
+
+.buttons button {
+  margin: 0.5rem;
+}
+
+.container {
+  margin: 3rem;
+  width: 70%;
+}
+
+h3 {
+  margin-left: 3rem;
+}
